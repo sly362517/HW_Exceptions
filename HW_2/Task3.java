@@ -54,6 +54,12 @@ public class Task3 {
     }
 }
 
+class DivisionByZeroException extends Exception {
+    public DivisionByZeroException(String message) {
+        super(message);
+    }
+}
+
 class NumberOutOfRangeException extends Exception {
     public NumberOutOfRangeException(String message) {
         super(message);
