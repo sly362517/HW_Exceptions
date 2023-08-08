@@ -9,6 +9,7 @@
 
 package HW_Exceptions.HW_3.Task_1;
 
+import HW_Exceptions.HW_2.Task3;
 import java.util.Scanner;
 
 public class Menu {
